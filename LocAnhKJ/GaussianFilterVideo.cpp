@@ -12,7 +12,7 @@ int main() {
 		cout << "Error";
 		return 1;
 	}
-
+	//add this code line, so that i will see change
 	//int frame_width = cap.get(CV_CAP_PROP_FRAME_WIDTH);
 	//int frame_height = cap.get(CV_CAP_PROP_FRAME_HEIGHT);
 	//VideoWriter video("FilterVideo.mp4",CV_FOURCC('M','P','4','2'),30,Size(frame_width,frame_height));
